@@ -31,7 +31,7 @@
 
 <p align="left">
 <a href="https://erenbaba.pro" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Globe_icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="40" />
 </a>
 </p>
 
