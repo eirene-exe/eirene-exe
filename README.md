@@ -3,7 +3,7 @@
 
 ---
 ### 🚀 About Me
-- 🔭 I’m currently working on **[leona ai](https://leona.cloud)**
+- 🔭 I’m currently working on **[eren](https://erenbaba.pro)**
 - 🌱 I’m learning **backend**
 
 ---
@@ -18,11 +18,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eirene-exe&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eirene-exe&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -30,7 +30,9 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/YOURINSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://erenbaba.pro" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Globe_icon.svg" width="40" />
+</a>
 </p>
 
 ---
