@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer</h3>
 
 ---
+### 🚀 About Me
+- 🔭 I’m currently working on **[leona ai](https://leona.cloud)**
+- 🌱 I’m learning **backend**
 
+---
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -30,7 +34,3 @@
 </p>
 
 ---
-
-### ✨ Quote of the day
-> *"Your favorite inspirational or personal quote."*
-
