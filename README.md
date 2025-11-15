@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate developer from COUNTRY</h3>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m learning **[Technologies you’re learning]**
-- 💬 Ask me about **[Your skills]**
-- 📫 How to reach me: **your@email.com**
-- ⚡ Fun fact: **Something interesting about you**
+<h1 align="center">eren</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
@@ -36,8 +27,6 @@
 
 <p align="left">
 <a href="https://instagram.com/YOURINSTAGRAM" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://twitter.com/YOURTWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://linkedin.com/in/YOURLINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ---
