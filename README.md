@@ -7,8 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="./asessts/Hbqu.gif" width="31%" style="margin-right: 5px;" />
-  <img src="./asessts/indir.gif" width="31%" style="margin-right: 5px;" />
   <img src="./asessts/illuminati-eye.gif" width="31%" />
 </p>
 
