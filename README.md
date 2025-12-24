@@ -16,7 +16,7 @@
 ---
 
 <p align="middle">
-  <img src="https://pbs.twimg.com/media/FdVixj5XkAAUCmj?format=png&name=360x360"/>
+  <img src="https://static.tumblr.com/8b1d0aa054624aa06aed18777ad64ebd/fum106x/dfjndg9gb/tumblr_static_45bomctjxby84ggso0c8cokcg.gif"/>
 </p>
 
 ---
