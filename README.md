@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/illuminati-eye.gif width="31%" />
+  <img src="./asessts/illuminati-eye.gif width="31%" />
 </p>
 
 ---
