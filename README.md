@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" style="filter: grayscale(100%) brightness(0%);">
 </p>
 
 <p align="center">
-  <img src="./asessts/illuminati-eye.gif" width="31%" />
+  <img src="./assets/illuminati-eye.gif width="31%" />
 </p>
 
 ---
 
 ### 🌑 System Status: Classified
 <p align="left">
- 🛡️ <b>Clearance:</b> Level 33 Initiate (Maarif Model) <br>
+ 🛡️ <b>Clearance:</b> Level 33 Initiate <br>
  🐍 <b>Focus:</b> Advanced Python & API Architectures <br>
  💻 <b>Current Operation:</b> <a href="https://erenbaba.pro">erenbaba.pro</a> Secure Infrastructure
 </p>
@@ -30,7 +30,7 @@
 
 <p align="center">
   <br>
-  <img src="https://static.tumblr.com/8b1d0aa054624aa06aed18777ad64ebd/fum106x/dfjndg9gb/tumblr_static_45bomctjxby84ggso0c8cokcg.gif" width="400" />
+  <img src="https://static.tumblr.com/8b1d0aa054624aa06aed18777ad64ebd/fum106x/dfjndg9gb/tumblr_static_45bomctjxby84ggso0c8cokcg.gif" width="380" />
   <br>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=WE+ARE+WATCHING;NOVUS+ORDO+SECLORUM;ORDER+OUT+OF+CHAOS" alt="Motto" />
@@ -40,13 +40,16 @@
 
 <h3 align="center">👁‍🗨 Establish Connection</h3>
 <p align="center">
-  <img src="./asessts/OL5X.gif" width="200" />
+  <img src="./assets/Hbqu.gif" width="220" />
   <br><br>
   <a href="https://erenbaba.pro" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25667.png" width="50" style="filter: invert(1);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="45" style="filter: invert(1);" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-feb6bb19-1720-49eb-8938-965c85291b37.png" width="60" />
+  <br>
+  <font size="6">▲</font>
+  <br>
+  <code>M M X X V</code>
 </p>
