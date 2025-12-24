@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="/assets/Hbqu.gif" width="31%" style="margin-right: 5px;" />
-  <img src="/assets/OL5X.gif" width="31%" style="margin-right: 5px;" />
-  <img src="/assets/illuminati-eye.gif" width="31%" />
+  <img src="assets/Hbqu.gif" width="31%" style="margin-right: 5px;" />
+  <img src="assets/OL5X.gif" width="31%" style="margin-right: 5px;" />
+  <img src="assets/illuminati-eye.gif" width="31%" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 <h3 align="center">👁‍🗨 Establish Connection</h3>
 <p align="center">
-  <img src="/assets/indir.gif" width="200" />
+  <img src="assets/indir.gif" width="200" />
   <br><br>
   <a href="https://erenbaba.pro" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25667.png" width="50" style="filter: invert(1);" />
