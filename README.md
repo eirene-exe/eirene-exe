@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+R+E+N+B+A+B+A;A+R+C+H+I+T+E+C+T;S+Y+S+T+E+M+O+V+E+R+S+E+E+R" alt="Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+I+R+E+N+E;A+R+C+H+I+T+E+C+T;S+Y+S+T+E+M+O+V+E+R+S+E+E+R" alt="Architect" />
 </h1>
 
 ---
