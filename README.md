@@ -49,6 +49,4 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-feb6bb19-1720-49eb-8938-965c85291b37.png" width="60" />
-  <br>
-  <code>M M X X V</code>
 </p>
