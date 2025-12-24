@@ -49,5 +49,5 @@
   <br>
   <font size="6">▲</font>
   <br>
-  <code>M M X X V</code>
+  <code>admin</code>
 </p>
