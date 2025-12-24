@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Metal+Mania&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=E+R+E+N+B+A+B+A;A+R+C+H+I+T+E+C+T;S+Y+S+T+E+M+O+V+E+R+S+E+E+R" alt="Architect" />
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" style="filter: grayscale(100%) brightness(0%);">
-</p>
+---
 
 <p align="center">
   <img src="./asessts/illuminati-eye.gif" width="31%" />
