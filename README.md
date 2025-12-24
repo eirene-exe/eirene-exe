@@ -40,7 +40,7 @@
 
 <h3 align="center">👁‍🗨 Establish Connection</h3>
 <p align="center">
-  <img src="./assets/Hbqu.gif" width="220" />
+  <img src="./asessts/Hbqu.gif" width="220" />
   <br><br>
   <a href="https://erenbaba.pro" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="45" style="filter: invert(1);" />
