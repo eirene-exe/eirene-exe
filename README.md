@@ -15,6 +15,12 @@
 
 ---
 
+<p align="middle">
+  <img src="https://pbs.twimg.com/media/FdVixj5XkAAUCmj?format=png&name=360x360"/>
+</p>
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
