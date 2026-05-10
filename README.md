@@ -1,36 +1,52 @@
 <div align="center">
 
-# ⚡ BACKEND • SECURITY • ARCHITECT ⚡
+```text
+      01010110     ._____.                                             ._____.    010100901
+    01001001001   / ___  |     BACKEND • SECURITY • ARCHITECT     |  ___ \  11010011001
+   101001010101  | |___| |                                            | |___| | 001010001010
+     01111010     \_____/                                              \_____/    01010001
+ ---------------------------------------------------------------------------------------------
+ 
+ 0101010101000001001010101101      /|\/\                                 HIGH PERFORMANCE          
+ 0010100110011010010110201        |/ /  |                                .---.       API SEC           ++========+
+ 00101100010010011011011          /|  //                             -->(   | )---------> ++--------> ||  o   o ||
+ 00001001000011000020001010      ///|//| /                               `---'      |                 ++========+
+ 010011010  _,-_  _1110010111    (|  |/ |/___...._                          |       v            +----||        ||
+ --~--     /__ /| \_         |    | \   |        |                          |   ZERO TRUST       |    ++========+
+ ||""       | |     )        (    \  \_/|        |           __             +------> ++----------+         ||
+ ||         | |     )         \   _`--' \        |          /  \            |        |                MATNETEC NETWORK
+ ||         | |    (           \ ( )     \       |         |====|           v        v                     |
+ ||         | |     \           \|/       \      \         |____|       ++-----> ++----->  +-------------+ |
+ ||         | |      \           |         \     |          ||          |        |         |  DATABASE   |<-- NETWORK
+ ||._       | |       )          |          \    |         API SEC      |SCALABLE|         |             | 
+ 00110`-.._ | |      /           |           \__/_                      v        v         +-------------+ 
+ 01101111' `--'    /'           /|      _      |  \                  +----+----+ +----+----+        ^ 
+ 011011101`--_   ,'            / |     / \     |   |                 |   DB    | |  AUTH   |        | 
+ 01010110111   ,'             |  |    |   |    |   |                 | ENCRYPT | | ZERO    |        |    ++========+
+ 01001001001| |               |  |     \_/     |   |                 +----+----+ +----+----+        |    || SERVER ||
+ 01000111000| |               |  |      |      |   |                      |           |             |    ++========+
+ 0101000110001011| |           \ \      |      /   |                      +-----+-----+-------------+    ++========+
+ 0010100110001`0||              \ \     |     /    |                            |                        || SERVER ||
+ 011010000000001011 1 |          \ \    |    /     |                            v                        ++========+
+ 010011011101001110               \ \   |   /      |                         NETWORK                     ++========+
+                                   \ \  |  /       |                            |                        || SERVER ||
+                                    \_\_|_/        |                   `o=======o`| +-- netWERKS         ++========+
+                                     \___/         |                   `--8080--` |-kes` /*/#)     NETWORK SERVERS
+                                                   |
 
-<img src="https://r2.erisa.uk/ascii-anime-arch.png" width="100%" alt="Backend Security Architecture Anime ASCII" />
-
-<br/>
-
-### 🌌 SYSTEM INITIALIZED | OPERATIONAL STATUS
-`"Building the secure future, one line at a time."`
-
-<br/>
-
----
-
-### 🛠️ KERNEL MODULES (CORE TECH)
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,py,rust,docker,kubernetes,postgres,mongodb,redis,aws,linux,terraform,ansible,githubactions,git,c)](https://skillicons.dev)
-
-<br/>
-
----
-
-### 📊 NEURAL NETWORK METRICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+```
 
 <br/>
 
 ```text
-[ LOGIN: SUCCESS ]
-[ ACCESS_LEVEL: ARCHITECT ]
-[ SYSTEM_PATH: /root/backend/security ]
+ --------------------------------------- CORE STACK ---------------------------------------
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,aws,mysql" />
+</p>
+<p align="center">
+  <br/>
+  <b>BUILDING THE SECURE FUTURE, ONE LINE AT A TIME.</b>
+</p>
+</div>
