@@ -1,51 +1,42 @@
 <div align="center">
 
-# 🌌 BEYOND THE BACKEND 🌌
+# 🛠️ SYSTEM ARCHITECT | BACKEND & SECURITY
 
-<!-- Anime Banner - Buradaki URL'yi sevdiğin bir anime gifi ile değiştirebilirsin -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=ARCHITECT&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
----
+### ⚡ Technical Arsenal
+<br/>
 
-### 💻 SECURING THE VOID | BACKEND & SECURITY ARCHITECT
-`Focused on performance, obsessed with security, living in the shell.`
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,py,rust,docker,kubernetes,postgres,mongodb,redis,aws,linux,git,github,githubactions,terraform,ansible)](https://skillicons.dev)
 
-[ ![Skills](https://skillicons.dev/icons?i=nodejs,go,py,js,docker,kubernetes,postgres,redis,linux,aws,terraform,git) ](https://skillicons.dev)
+<br/>
 
----
-
-<!-- Sol tarafa teknik bilgiler, Sağ tarafa bir anime karakteri veya görsel -->
 <table border="0">
   <tr>
-    <td width="60%">
-      <h3>🛠 Specialized In</h3>
-      <ul>
-        <li><b>API Design:</b> gRPC, REST, GraphQL, WebSocket</li>
-        <li><b>Security:</b> OAuth2, JWT, Zero-Trust, Encryption</li>
-        <li><b>Infrastructure:</b> High-Availability, CI/CD, K8s</li>
-        <li><b>Database:</b> Query Optimization, Schema Design</li>
-      </ul>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
     </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eWJiaG1qMWRndmNidW01Z3NiaXN3eHBmaXJ5ZDV3eG9hZzJpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="100%" alt="Anime GIF" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 SYSTEM METRICS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+### 🌑 Infrastructure Focus
+
+`High Availability` • `Distributed Systems` • `Identity Management` • `Network Security` • `Kernel Optimization`
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXh0ZGZ3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fX8H6G6AQC5u4m3D3G/giphy.gif" width="400" />
 
 ---
 
-### 🎭 INTERESTS
-`Anime Infrastructure` • `Network Security` • `Kernel Hardening` • `Distributed Systems`
+### 📜 Development Philosophy
+> "Build it secure by default, scale it by design."
 
-<!-- Alt kısım için ince bir çizgi ve şık bir bitiş -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 </div>
