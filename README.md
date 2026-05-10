@@ -16,13 +16,4 @@
 
 ---
 
-<h3 align="center">👁‍🗨 Establish Connection</h3>
-<p align="center">
-  <img src="./asessts/Hbqu.gif" width="220" />
-  <br><br>
-  <a href="https://erenbaba.pro" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25667.png" width="45" style="filter: invert(1);" />
-  </a>
-</p>
-
 
